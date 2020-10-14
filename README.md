@@ -1,2 +1,2 @@
-# py_vhdl_block_diagram
+# PVDB stands for python vhdl block diagram
 This project will be used for creating a block diagram from vhdl disgn files. It will be good to have different tiers; e.g. tier one top level, tier two top level with submodules... 
